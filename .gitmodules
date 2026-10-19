@@ -1,9 +1,9 @@
 [submodule "src/contrib/implot"]
 	path = src/contrib/implot
-	url = https://github.com/Taylor8484/implot
+	url = https://github.com/ChanceTimeGame/implot
 [submodule "src/contrib/hlslpp"]
 	path = src/contrib/hlslpp
-	url = https://github.com/Taylor8484/hlslpp
+	url = https://github.com/ChanceTimeGame/hlslpp
 [submodule "src/contrib/xess"]
 	path = src/contrib/xess
 	url = https://github.com/intel/xess
@@ -15,34 +15,34 @@
 	url = https://github.com/mupen64plus/mupen64plus-core
 [submodule "src/contrib/xxHash"]
 	path = src/contrib/xxHash
-	url = https://github.com/Taylor8484/xxHash
+	url = https://github.com/ChanceTimeGame/xxHash
 [submodule "src/contrib/imgui"]
 	path = src/contrib/imgui
-	url = https://github.com/Taylor8484/imgui
+	url = https://github.com/ChanceTimeGame/imgui
 [submodule "src/contrib/im3d"]
 	path = src/contrib/im3d
-	url = https://github.com/Taylor8484/im3d
+	url = https://github.com/ChanceTimeGame/im3d
 [submodule "src/contrib/dxc"]
 	path = src/contrib/dxc
-	url = https://github.com/Taylor8484/dxc-bin
+	url = https://github.com/ChanceTimeGame/dxc-bin
 [submodule "src/contrib/stb"]
 	path = src/contrib/stb
-	url = https://github.com/Taylor8484/stb
+	url = https://github.com/ChanceTimeGame/stb
 [submodule "src/contrib/nativefiledialog-extended"]
 	path = src/contrib/nativefiledialog-extended
-	url = https://github.com/Taylor8484/nativefiledialog-extended
+	url = https://github.com/ChanceTimeGame/nativefiledialog-extended
 [submodule "src/contrib/spirv-cross"]
 	path = src/contrib/spirv-cross
 	url = https://github.com/KhronosGroup/SPIRV-Cross.git
 [submodule "src/contrib/ddspp"]
 	path = src/contrib/ddspp
-	url = https://github.com/Taylor8484/ddspp
+	url = https://github.com/ChanceTimeGame/ddspp
 [submodule "src/contrib/zstd"]
 	path = src/contrib/zstd
-	url = https://github.com/Taylor8484/zstd
+	url = https://github.com/ChanceTimeGame/zstd
 [submodule "src/contrib/re-spirv"]
 	path = src/contrib/re-spirv
-	url = https://github.com/Taylor8484/re-spirv
+	url = https://github.com/ChanceTimeGame/re-spirv
 [submodule "src/contrib/plume"]
 	path = src/contrib/plume
-	url = https://github.com/Taylor8484/plume
+	url = https://github.com/ChanceTimeGame/plume
